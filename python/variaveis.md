@@ -1,4 +1,4 @@
-##Variaveis
+## Variaveis
 São como containers que armazenam dados de tipos diversos (numero, texto, boolean e etc).
 
 para declarar uma variavel basta iniciar com um nome:

@@ -35,3 +35,19 @@ print(y + y) // 8, somou
 print(z + z) // 10.0. continua um float
 ```
 
+### praticando...
+
+- mesclar variaveis de texto com variaveis de numero e string literal
+```
+# frase: a ester tem 22 anos e mora na idade de são paulo
+
+nome = "ester"
+idade = 22
+cidade = "são paulo"
+
+print("a " + nome + " tem " + str(idade) + " anos e mora na cidade de " + cidade)
+// a ester tem 22 anos e mora na idade de são paulo
+```
+- usar str() nos integers pois somente strings se concatenam entre si
+- poderiamos resolver o erro já convertendo na declaração com idade = str(22), porém não poderiamos usar o valor da idade em fomato numero em mais nenhum local do código, sendo melhor então, converter no local de uso
+

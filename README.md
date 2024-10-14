@@ -1,12 +1,10 @@
-# study_python_pyspark
+# Plano de Estudos
 
-## Plano de Estudos
-
-### 1. Fundamentos de Programação (Python)
+## 1. Fundamentos de Programação (Python)
 
 Objetivo: Adquirir uma base sólida em Python, que é essencial para trabalhar com dados.
 
-#### Conteúdos:
+### Conteúdos:
 
 - Sintaxe básica (variáveis, loops, condicionais, funções)
 - Tipos de dados (listas, dicionários, tuplas, sets)
@@ -15,21 +13,21 @@ Objetivo: Adquirir uma base sólida em Python, que é essencial para trabalhar c
 - Programação orientada a objetos
 - Módulos e pacotes em Python
 
-#### Ferramentas:
+### Ferramentas:
 
 - Jupyter Notebook
 - IDE (VSCode, PyCharm)
 
-#### Recursos:
+### Recursos:
 
 - roadmap de python: https://roadmap.sh/python
 - roadmap completo [udemy]: https://ibm-learning.udemy.com/learning-paths/8686707/
 
-### 2. Manipulação de Dados com Python (Pandas, NumPy)
+## 2. Manipulação de Dados com Python (Pandas, NumPy)
 
 Objetivo: Aprender a manipular dados em tabelas, preparar e transformar conjuntos de dados.
 
-#### Conteúdos:
+### Conteúdos:
 
 - NumPy para operações numéricas e arrays
 - Pandas para manipulação de DataFrames
@@ -38,17 +36,17 @@ Objetivo: Aprender a manipular dados em tabelas, preparar e transformar conjunto
 - Agrupamentos e agregações
 - Merge, Join e Concatenate de DataFrames
 
-#### Recursos:
+### Recursos:
 
 - Livro: Python for Data Analysis de Wes McKinney
 - Documentação oficial de Pandas e NumPy
 - roadmap completo [udemy]: https://ibm-learning.udemy.com/learning-paths/8686707/
 
-### 3. Big Data e PySpark
+## 3. Big Data e PySpark
 
 Objetivo: Dominar o processamento de grandes volumes de dados com PySpark.
 
-#### Conteúdos:
+### Conteúdos:
 
 - Introdução ao Apache Spark e sua arquitetura
 - RDDs (Resilient Distributed Datasets)
@@ -57,7 +55,7 @@ Objetivo: Dominar o processamento de grandes volumes de dados com PySpark.
 - Processamento distribuído de dados
 - Integração do PySpark com outras ferramentas de big data (Hadoop, AWS)
 
-#### Recursos:
+### Recursos:
 
 - Curso: Big Data Analysis with PySpark na DataCamp
 - Documentação oficial do PySpark

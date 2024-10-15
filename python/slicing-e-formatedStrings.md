@@ -30,4 +30,28 @@ print(valor[2:]) // .75, tambem funciona
 - para passar por cima da regra do python que não mostra o ultimo caracter, basta colocar um numero de index a mais
 
 
+## Formated Strings
+facilitam a leitura das strings e a inserção de variaveis dentro das strings
+
+exemplos:
+
+```
+# A ester silva é uma excelente [programadora]
+
+nome = 'ester'
+sobrenome = 'silva'
+profissao = 'programadora'
+
+texto = 'o ' + nome + ' ' + sobrenome + ' é uma excelente ' + ' [' + profissao + ']'
+print(texto)
+
+# com formated string
+
+texto2 = f' o {nome} {sobrenome} é uma excelente [{profissao}]'
+print(texto2)
+
+```
+- o 'F' no inicio indica que é uma string formatada, dispensando o uso de espaços, sinal de mais e demais simbolos
+
+
 
